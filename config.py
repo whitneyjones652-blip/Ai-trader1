@@ -1,0 +1,9 @@
+BOT_TOKEN = ""
+
+CHAT_ID = ""
+
+TIMEFRAME = "1h"
+
+RISK_PERCENT = 1
+
+MIN_CONFIDENCE = 80
